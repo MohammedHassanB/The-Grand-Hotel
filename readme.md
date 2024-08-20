@@ -1,3 +1,3 @@
 # The Grand Hotel
 
-Reactjs project
+Reactjs project with supabase
