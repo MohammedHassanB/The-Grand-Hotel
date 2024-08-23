@@ -10,6 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       FallbackComponent={ErrorFallback}
       onReset={() => window.location.replace("/")}
     >
+      alert('login with eamial:ff@k.comm,password:87654321')
       <App />
     </ErrorBoundary>
   </React.StrictMode>
