@@ -1,10 +1,10 @@
 # The Grand Hotel
-# project url with netlify:https://the-grand-hotel-mo.netlify.app/
-# project url with vercel:https://the-grand-hotel.vercel.app/
-## The project:The Grand Hotel
-# Overview:
+## project url with netlify:https://the-grand-hotel-mo.netlify.app/
+## project url with vercel:https://the-grand-hotel.vercel.app/
+
+## Overview:
 -an internal hotel managment app to manage the bookings, cabins and guests.
-# Business requrements:
+## Business requrements:
 -Authentication
 -Dashboard
 -Check in/out
@@ -12,9 +12,9 @@
 -Guests
 -Cabins
 -Bookings
-# Client-Side Rendering using plain React:
+## Client-Side Rendering using plain React:
 -no need for server side rendering as the app is single page app, it is used internally and doesn`t need to be hugly downloaded.
-# Technology decisions:
+## Technology decisions:
 -Styling: Styled Components
 -Routing: React Router
 -Ui State Management : Context Api
