@@ -4,7 +4,7 @@
 
 ## Overview:
 -an internal hotel managment app to manage the bookings, cabins and guests.
-## Business requrements:
+## Business requirements:
 -Authentication
 -Dashboard
 -Check in/out
