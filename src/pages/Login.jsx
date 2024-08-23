@@ -14,7 +14,7 @@ const LoginLayout = styled.main`
 `;
 
 function Login() {
-   alert("login with eamial:ff@k.comm,password:87654321");
+   alert("login with email:ff@k.comm,password:87654321");
   return (
     <LoginLayout>
       <Logo />
